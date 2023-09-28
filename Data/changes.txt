@@ -1,0 +1,15 @@
+version 1.1
+1) MusicMenu +
+2) /music_lib +
+3) /reg +
+4) файл - library +
+5) файл - musicLib.js +
+6) /roll +
+7) /spell +
+8) файл allSpells +
+9) файл allMonsters +
+10) creature.py +
+11) allAbilities.js +
+12) creature_settings.js +
+13) /make_creature +
+14) spells_settings.js +

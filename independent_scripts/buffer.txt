@@ -1,0 +1,308 @@
+
+Chill Touch
+Necromancy • V, S
+1 Action
+1 Round
+120 ft
+Ranged
+Necrotic
+Cantrip
+Spare the Dying
+Necromancy • V, S
+1 Action
+Instantaneous
+Touch
+Healing
+Cantrip
+Toll the Dead
+Necromancy • V, S
+1 Action
+Instantaneous
+60 ft
+WIS Save
+Necrotic
+1st
+Cause Fear
+Concentration
+Necromancy • V
+1 Action
+1 Minute
+60 ft
+WIS Save
+Frightened
+1st
+False Life
+Necromancy • V, S, M
+1 Action
+1 Hour
+Self
+Buff
+1st
+Inflict Wounds
+Necromancy • V, S
+1 Action
+Instantaneous
+Touch
+Melee
+Necrotic
+1st
+Ray of Sickness
+Necromancy • V, S
+1 Action
+Instantaneous
+60 ft
+CON Save
+Poison
+2nd
+Blindness/Deafness
+Necromancy • V
+1 Action
+1 Minute
+30 ft
+CON Save
+Blinded (...)
+2nd
+Gentle Repose
+Ritual
+Necromancy • V, S, M
+1 Action
+10 Days
+Touch
+Warding
+2nd
+Ray of Enfeeblement
+Concentration
+Necromancy • V, S
+1 Action
+1 Minute
+60 ft
+CON Save
+Debuff
+2nd
+Wither and Bloom
+Necromancy • V, S, M
+1 Action
+Instantaneous
+60 ft
+(10 ft  *)
+CON Save
+Necrotic
+3rd
+Animate Dead
+Necromancy • V, S, M
+1 Minute
+Instantaneous
+10 ft
+Creation
+3rd
+Bestow Curse
+Concentration
+Necromancy • V, S
+1 Action
+1 Minute
+Touch
+WIS Save
+Debuff
+3rd
+Feign Death
+Ritual
+Necromancy • V, S, M
+1 Action
+1 Hour
+Touch
+Blinded (...)
+3rd
+Life Transference
+Necromancy • V, S
+1 Action
+Instantaneous
+30 ft
+Necrotic
+3rd
+Revivify
+Necromancy • V, S, M
+1 Action
+Instantaneous
+Touch
+Healing
+3rd
+Speak with Dead
+Necromancy • V, S, M
+1 Action
+10 Minutes
+10 ft
+Communication (...)
+3rd
+Spirit Shroud
+Concentration
+Necromancy • V, S
+1 Bonus Action
+1 Minute
+Self
+Cold (...)
+3rd
+Summon Undead
+Concentration
+Necromancy • V, S, M
+1 Action
+1 Hour
+90 ft
+Summoning
+3rd
+Vampiric Touch
+Concentration
+Necromancy • V, S
+1 Action
+1 Minute
+Self
+Melee
+Necrotic
+4th
+Blight
+Necromancy • V, S
+1 Action
+Instantaneous
+30 ft
+CON Save
+Necrotic
+4th
+Shadow of Moil
+Concentration
+Necromancy • V, S, M
+1 Action
+1 Minute
+Self
+Necrotic
+5th
+Contagion
+Necromancy • V, S
+1 Action
+7 Days
+Touch
+CON Save
+Blinded (...)
+5th
+Danse Macabre
+Concentration
+Necromancy • V, S
+1 Action
+1 Hour
+60 ft
+Control (...)
+5th
+Enervation
+Concentration
+Necromancy • V, S
+1 Action
+1 Minute
+60 ft
+DEX Save
+Necrotic
+5th
+Negative Energy Flood
+Necromancy • V, M
+1 Action
+Instantaneous
+60 ft
+CON Save
+Necrotic
+5th
+Raise Dead
+Necromancy • V, S, M
+1 Hour
+Instantaneous
+Touch
+Healing
+6th
+Circle of Death
+Necromancy • V, S, M
+1 Action
+Instantaneous
+150 ft
+(60 ft )
+CON Save
+Necrotic
+6th
+Create Undead
+Necromancy • V, S, M
+1 Minute
+Instantaneous
+10 ft
+Control (...)
+6th
+Eyebite
+Concentration
+Necromancy • V, S
+1 Action
+1 Minute
+Self
+WIS Save
+Unconscious (...)
+6th
+Harm
+Necromancy • V, S
+1 Action
+Instantaneous
+60 ft
+CON Save
+Necrotic
+6th
+Magic Jar
+Necromancy • V, S, M
+1 Minute
+Until Dispelled
+Self
+CHA Save
+Control
+6th
+Soul Cage
+Necromancy • V, S, M
+1 Reaction *
+8 Hours
+60 ft
+Buff (...)
+7th
+Finger of Death
+Necromancy • V, S
+1 Action
+Instantaneous
+60 ft
+CON Save
+Necrotic
+7th
+Resurrection
+Necromancy • V, S, M
+1 Hour
+Instantaneous
+Touch
+Healing
+8th
+Abi-Dalzim’s Horrid Wilting
+Necromancy • V, S, M
+1 Action
+Instantaneous
+150 ft
+(30 ft )
+CON Save
+Necrotic
+8th
+Clone
+Necromancy • V, S, M
+1 Hour
+Instantaneous
+Touch
+Utility
+9th
+Astral Projection
+Necromancy • V, S, M
+1 Hour
+Special
+10 ft
+Teleportation
+9th
+True Resurrection
+Necromancy • V, S, M
+1 Hour
+Instantaneous
+Touch
+Healing
