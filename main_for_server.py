@@ -698,4 +698,4 @@ async def music_lib(interaction: discord.Interaction):
     await view.send()
 
 
-client.run('MTA0MzU2OTI0NjYwNjcyOTM3Ng.G7yAm4.PDlNM7Y7wzPzDsl_Da_90aJoDNZNUO7OoAA494')
+client.run('')
